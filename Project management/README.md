@@ -9,5 +9,5 @@
 ### Planning meeting for Sprint 2 on June 6, 2022 at 9pm at google meeting
 ### Review and weekly meeting at 9pm on June 18, 2022 on google meeting
 ## PA3
-### Planning meeting for Sprint 2 on June 22, 2022 at 9pm at google meeting
+### Planning meeting for Sprint 3 on June 22, 2022 at 9pm at google meeting
 
